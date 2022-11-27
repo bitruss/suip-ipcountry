@@ -1,0 +1,12 @@
+2606:40:6cc::-2606:40:6db:ffff:ffff:ffff:ffff:ffff
+2606:40:1030::-2606:40:103f:ffff:ffff:ffff:ffff:ffff
+2a05:1083::-2a05:1083:2:ffff:ffff:ffff:ffff:ffff
+2a05:1083:7::-2a05:1083:f:ffff:ffff:ffff:ffff:ffff
+2a05:1083:30::-2a05:1083:feff:ffff:ffff:ffff:ffff:ffff
+2a05:4140:307::-2a05:4140:307:ffff:ffff:ffff:ffff:ffff
+2a09:4c0:4200::-2a09:4c0:42ff:ffff:ffff:ffff:ffff:ffff
+2a0e:97c0:4b36::-2a0e:97c0:4b36:ffff:ffff:ffff:ffff:ffff
+2a0e:b101:4200::-2a0e:b101:42ff:ffff:ffff:ffff:ffff:ffff
+2a10:ccc0:4200::-2a10:ccc0:42ff:ffff:ffff:ffff:ffff:ffff
+2a10:ccc1:420::-2a10:ccc1:42f:ffff:ffff:ffff:ffff:ffff
+2a10:ccc2:420::-2a10:ccc2:42f:ffff:ffff:ffff:ffff:ffff
